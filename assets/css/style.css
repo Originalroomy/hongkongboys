@@ -812,6 +812,13 @@ body.nav-active {overflow: hidden;}
 }
 .special-dish-content .span {color: var(--gold-crayola);}
 .special-dish .btn{margin-inline: auto; }
+.menu .container .alert{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(212, 26, 26);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 
 /*-----------------------------------*\
